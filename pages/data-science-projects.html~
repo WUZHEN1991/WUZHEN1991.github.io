@@ -4,13 +4,13 @@
 <head>
   <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" type="text/css" href="https://wuzhen1991.github.io/theme/stylesheet/style.min.css">
+    <link rel="stylesheet" type="text/css" href="https://stevenfelix.github.io/theme/stylesheet/style.min.css">
 
-  <link rel="stylesheet" type="text/css" href="https://wuzhen1991.github.io/theme/pygments/github.min.css">
-  <link rel="stylesheet" type="text/css" href="https://wuzhen1991.github.io/theme/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="https://stevenfelix.github.io/theme/pygments/github.min.css">
+  <link rel="stylesheet" type="text/css" href="https://stevenfelix.github.io/theme/font-awesome/css/font-awesome.min.css">
 
 
-    <link href="https://wuzhen1991.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="WU ZHEN Atom">
+    <link href="https://stevenfelix.github.io/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Steven A. M. Felix Atom">
 
 
 
@@ -21,43 +21,46 @@
   <meta name="robots" content="" />
 
 
-    <meta name="author" content="tommy" />
+    <meta name="author" content="Steven A. M. Felix" />
     <meta name="description" content="" />
-<meta property="og:site_name" content="WU ZHEN"/>
+<meta property="og:site_name" content="Steven A. M. Felix"/>
 <meta property="og:type" content="blog"/>
-<meta property="og:title" content="WU ZHEN"/>
+<meta property="og:title" content="Steven A. M. Felix"/>
 <meta property="og:description" content=""/>
 <meta property="og:locale" content="en_US"/>
-<meta property="og:url" content="https://wuzhen1991.github.io"/>
+<meta property="og:url" content="https://stevenfelix.github.io"/>
 
-  <title>WU ZHEN 吴震</title>
+  <title>Steven A. M. Felix &ndash; Data Science Projects</title>
 
 </head>
 <body>
   <aside>
     <div>
-      <a href="https://WUZHEN1991.github.io">
-        <img src="https://WUZHEN1991.github.io/theme/img/profile.png" alt="WU ZHEN" title="WU ZHEN">
+      <a href="https://stevenfelix.github.io">
+        <img src="https://stevenfelix.github.io/theme/img/profile.png" alt="Steven A. M.
+Felix" title="Steven A. M.
+Felix">
       </a>
-      <h1><a href="https://WUZHEN1991.github.io">WU ZHEN</a></h1>
+      <h1><a href="https://stevenfelix.github.io">Steven A. M.
+Felix</a></h1>
 
-<p>Quantitative Investment Researcher |
- Data Analyst</p>
+<p>Data Scientist |
+ Psychological Scientist</p>
       <nav>
         <ul class="list">
-          <li><a href="https://wuzhen1991.github.io/pages/about.html#about">About Me</a></li>
-          <li><a href="https://wuzhen1991.github.io/pages/data-science-projects.html#data-science-projects">Data Science Projects</a></li>
-          <li><a href="https://wuzhen1991.github.io/pages/links.html#links">Links</a></li>
-          <li><a href="https://wuzhen1991.github.io/pages/research.html#research">Research</a></li>
+          <li><a href="https://stevenfelix.github.io/pages/about.html#about">About Me</a></li>
+          <li><a href="https://stevenfelix.github.io/pages/data-science-projects.html#data-science-projects">Data Science Projects</a></li>
+          <li><a href="https://stevenfelix.github.io/pages/links.html#links">Links</a></li>
+          <li><a href="https://stevenfelix.github.io/pages/research.html#research">Research</a></li>
 
           <li><a href="../pdfs/felix_resume.pdf" target="_blank">resume</a></li>
         </ul>
       </nav>
 
       <ul class="social">
-        <li><a class="sc-google" href="mailto:uibetommy@126.com" target="_blank"><i class="fa fa-google"></i></a></li>
-        <li><a class="sc-github" href="https://github.com/wuzhen1991" target="_blank"><i class="fa fa-github"></i></a></li>
-        <li><a class="sc-linkedin" href="https://www.linkedin.com/in/震-吴-8a1600138/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+        <li><a class="sc-google" href="mailto:steven.a.felix@gmail.com" target="_blank"><i class="fa fa-google"></i></a></li>
+        <li><a class="sc-github" href="https://github.com/stevenfelix" target="_blank"><i class="fa fa-github"></i></a></li>
+        <li><a class="sc-linkedin" href="https://www.linkedin.com/in/steven-am-felix/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
       </ul>
     </div>
 
